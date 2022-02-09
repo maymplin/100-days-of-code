@@ -14,7 +14,7 @@
 
 **Thoughts**: Since the first few lessons are mostly refreshers for me, I should move along more quickly.
 
-**Link(s) to work**: [100 Days of Python Day 2 replit](https://replit.com/@maylin21/tip-calculator-start)
+**Link to work**: [100 Days of Python Day 2 replit](https://replit.com/@maylin21/tip-calculator-start)
 
 
 ### Day 2: February 9, 2022
@@ -23,6 +23,5 @@
 
 **Thoughts**: I have always wanted to improve my basic HTML and CSS skills. So I will also start "Modern HTML & CSS From the Beginning (Including Sass)" on Udemy today.
 
-**Link to work**
-[100 Days of Python Day 3 replit](https://replit.com/@maylin21/treasure-island-start)
+**Link to work**: [100 Days of Python Day 3 replit](https://replit.com/@maylin21/treasure-island-start)
 
