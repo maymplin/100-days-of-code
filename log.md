@@ -17,12 +17,12 @@
 **Link(s) to work**: [100 Days of Python Day 2 replit](https://replit.com/@maylin21/tip-calculator-start)
 
 
-### Day 1: June 27, Monday
+### Day 2: February 9, 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Completed Day 3 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**: I have always wanted to improve my basic HTML and CSS skills. So I will also start "Modern HTML & CSS From the Beginning (Including Sass)" on Udemy today.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work**
+[100 Days of Python Day 3 replit](https://replit.com/@maylin21/treasure-island-start)
+
