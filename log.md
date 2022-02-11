@@ -31,7 +31,7 @@
 **Today's Progress**: 
 - Completed Day 4 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
-**Thoughts**: I have always wanted to improve my basic HTML and CSS skills. So I will also start "Modern HTML & CSS From the Beginning (Including Sass)" on Udemy today.
+**Thoughts**: 
 
 **Link to work**: [100 Days of Python Day 4 replit](https://replit.com/@maylin21/rock-paper-scissors-start)
 
