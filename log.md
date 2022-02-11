@@ -4,7 +4,7 @@
 
 **Today's Progress**: Completed Day 1 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
-**Thoughts:** I know rules say that I should record pure coding time, instead of tutorials, but I'm giving myself a pass for now. I do plan to keep working on my Job Search Tracker application.
+**Thoughts:** I know the rules say that I should record pure coding time, instead of tutorials, but I'm giving myself a pass for now. I do plan to keep working on my Job Search Tracker application.
 
 **Link to work:** [100 Days of Python Day 1 replit](https://replit.com/@maylin21/band-name-generator-start)
 
@@ -24,4 +24,14 @@
 **Thoughts**: I have always wanted to improve my basic HTML and CSS skills. So I will also start "Modern HTML & CSS From the Beginning (Including Sass)" on Udemy today.
 
 **Link to work**: [100 Days of Python Day 3 replit](https://replit.com/@maylin21/treasure-island-start)
+
+
+### Day 3: February 10, 2022
+
+**Today's Progress**: 
+- Completed Day 4 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Thoughts**: I have always wanted to improve my basic HTML and CSS skills. So I will also start "Modern HTML & CSS From the Beginning (Including Sass)" on Udemy today.
+
+**Link to work**: [100 Days of Python Day 4 replit](https://replit.com/@maylin21/rock-paper-scissors-start)
 
