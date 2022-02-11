@@ -30,8 +30,6 @@
 
 **Today's Progress**: 
 - Completed Day 4 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
-
-**Thoughts**: 
+- Started LeetCode Explore's explore card "Detailed Explanation of Heap"
 
 **Link to work**: [100 Days of Python Day 4 replit](https://replit.com/@maylin21/rock-paper-scissors-start)
-
