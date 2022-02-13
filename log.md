@@ -43,14 +43,8 @@
 - random.shuffle(iterable): shuffles items in-place, returns None
 - random.randint(start, end): integer returned will include both start and end. I wasn't careful with this and experienced IndexError.
 
-<<<<<<< HEAD
 **Link to work**: [100 Days of Python Day 5 replit](https://replit.com/@maylin21/password-generator-start)
 
 ### Day 5: February 12, 2022
 
 **Today's Progress**: Began but didn't complete Day 6 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
-||||||| 198e735
-**Link to work**: [100 Days of Python Day 5 replit](https://replit.com/@maylin21/password-generator-start)
-=======
-**Link to work**: [100 Days of Python Day 5 replit](https://replit.com/@maylin21/password-generator-start)
->>>>>>> 746f71d11fac60e3da48bde14c3cbcdaa3289dc2
