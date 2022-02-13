@@ -44,3 +44,7 @@
 - random.randint(start, end): integer returned will include both start and end. I wasn't careful with this and experienced IndexError.
 
 **Link to work**: [100 Days of Python Day 5 replit](https://replit.com/@maylin21/password-generator-start)
+
+### Day 5: February 12, 2022
+
+**Today's Progress**: Began but didn't complete Day 6 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
