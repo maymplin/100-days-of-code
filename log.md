@@ -48,3 +48,9 @@
 ### Day 5: February 12, 2022
 
 **Today's Progress**: Began but didn't complete Day 6 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+### Day 6: February 13, 2022
+
+**Today's Progress**: Completed Day 7 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy. Still need to go back to finish Day 6.
+
+**Link to work**: [100 Days of Python Day 7 replit](https://replit.com/@maylin21/Day-7-Hangman-5-Start)
