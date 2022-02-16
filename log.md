@@ -63,3 +63,10 @@
 **Today's Progress**: Completed Day 8 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 **Link to work**: [100 Days of Python Day 8 replit](https://replit.com/@maylin21/caesar-cipher-4-start)
+
+
+### Day 8: February 15, 2022
+
+**Today's Progress**: Completed Day 9 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**: [100 Days of Python Day 9 replit](https://replit.com/@maylin21/blind-auction-start)
