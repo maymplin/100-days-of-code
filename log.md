@@ -70,3 +70,10 @@
 **Today's Progress**: Completed Day 9 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 **Link to work**: [100 Days of Python Day 9 replit](https://replit.com/@maylin21/blind-auction-start)
+
+
+### Day 10: February 16, 2022
+
+**Today's Progress**: Completed Day 10 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**: [100 Days of Python Day 10 replit](https://replit.com/@maylin21/calculator-start-1-1)
