@@ -79,3 +79,9 @@
 - Got back to learning Spring and Hibernate again
 
 **Link to work**: [100 Days of Python Day 10 replit](https://replit.com/@maylin21/calculator-start-1-1)
+
+### Day 10: February 17, 2022
+
+**Today's Progress**: Completed Day 11 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**: [100 Days of Python Day 11 replit](https://replit.com/@maylin21/blackjack-start)
