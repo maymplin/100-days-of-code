@@ -82,6 +82,24 @@
 
 ### Day 10: February 17, 2022
 
-**Today's Progress**: Completed Day 11 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+**Today's Progress**: 
+- Completed Day 11 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+- Also learned a little more about Spring Framework
+
+**Thoughts**: It took me a while to pick up Spring again after such a long break, but certain details are starting to make a little more sense.
 
 **Link to work**: [100 Days of Python Day 11 replit](https://replit.com/@maylin21/blackjack-start)
+
+
+### Day 11: February 18, 2022
+
+**Today's Progress**: Completed Day 12 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**: [100 Days of Python Day 12 replit](https://replit.com/@maylin21/guess-the-number-start)
+
+
+### Day 12: February 19, 2022
+
+**Today's Progress**: Completed Day 13 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Thoughs:** Today's materials were quite light-weight, so I should try to squeeze in a little more.
