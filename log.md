@@ -110,3 +110,8 @@
 **Today's Progress**: Completed Day 14 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 **Link to work**: [100 Days of Python Day 14 replit](https://replit.com/@maylin21/higher-lower-start)
+
+
+### Day 14: February 21, 2022
+
+**Today's Progress**: Started Day 15 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy but have not completed it. Will complete tomorrow along with Day 16.
