@@ -115,3 +115,14 @@
 ### Day 14: February 21, 2022
 
 **Today's Progress**: Started Day 15 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy but have not completed it. Will complete tomorrow along with Day 16.
+
+
+### Day 15: February 22, 2022
+
+**Today's Progress**: Completed Day 15 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**: [100 Days of Python Day 15 project](https://github.com/maymplin/100-Days-of-Python/blob/main/Day015/coffee_maker.py)
+
+### Day 16: February 23, 2022
+
+**Today's Progress**: Started Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
