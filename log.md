@@ -123,6 +123,12 @@
 
 **Link to work**: [100 Days of Python Day 15 project](https://github.com/maymplin/100-Days-of-Python/blob/main/Day015/coffee_maker.py)
 
+
 ### Day 16: February 23, 2022
 
 **Today's Progress**: Started Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+
+### Day 17: February 23, 2022
+
+**Today's Progress**: Continued Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
