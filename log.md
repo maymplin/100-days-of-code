@@ -129,6 +129,15 @@
 **Today's Progress**: Started Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 
-### Day 17: February 23, 2022
+### Day 17: February 24, 2022
 
-**Today's Progress**: Continued Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+**Today's Progress**: Continued Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+
+
+### Day 18: February 25, 2022
+
+**Today's Progress**: Continued Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+
+### Day 19: February 26, 2022
+
+**Today's Progress**: Continued Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
