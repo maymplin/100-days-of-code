@@ -138,6 +138,14 @@
 
 **Today's Progress**: Continued Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
 
+
 ### Day 19: February 26, 2022
 
 **Today's Progress**: Continued Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+
+
+### Day 20: February 27, 2022
+
+**Today's Progress**: Finally completed Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+
+**Link to work**: [100 Days of Python Day 16 project - OOP coffee_maker](https://github.com/maymplin/100-Days-of-Python/tree/main/Day016/oop-coffee-machine-start)
