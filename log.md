@@ -154,3 +154,9 @@
 ### Day 21: February 28, 2022
 
 **Today's Progress**: Halfway through Day 17 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+
+### Day 22: March 1, 2022
+
+**Today's Progress**: Continue Day 17 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+
+**Link to work**: [100 Days of Python Day 16 project - quiz_game](https://github.com/maymplin/100-Days-of-Python/tree/main/Day017/quiz-game-start)
