@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+
 ### Day 0: February 7, 2022 
 
 **Today's Progress**: Completed Day 1 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
@@ -7,6 +8,7 @@
 **Thoughts:** I know the rules say that I should record pure coding time, instead of tutorials, but I'm giving myself a pass for now. I do plan to keep working on my Job Search Tracker application.
 
 **Link to work:** [100 Days of Python Day 1 replit](https://replit.com/@maylin21/band-name-generator-start)
+
 
 ### Day 1: February 8, 2022
 
@@ -79,6 +81,7 @@
 - Got back to learning Spring and Hibernate again
 
 **Link to work**: [100 Days of Python Day 10 replit](https://replit.com/@maylin21/calculator-start-1-1)
+
 
 ### Day 10: February 17, 2022
 
@@ -158,7 +161,7 @@
 
 ### Day 22: March 1, 2022
 
-**Today's Progress**: Continue Day 17 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+**Today's Progress**: Continued Day 17 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
 
 **Link to work**: [100 Days of Python Day 17 project - quiz_game](https://github.com/maymplin/100-Days-of-Python/tree/main/Day017/quiz-game-start)
 
@@ -173,3 +176,12 @@
 ### Day 24: March 3, 2022
 
 **Today's Progress**: Started Day 18 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+
+
+### Day 25: March 4, 2022
+
+**Today's Progress**: Completed Day 18 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+
+**Links to work**: 
+-[100 Days of Python Day 18 project - turtle](https://github.com/maymplin/100-Days-of-Python/tree/main/Day018/day-18-start)
+-[100 Days of Python Day 18 project - Hirst spot painting](https://github.com/maymplin/100-Days-of-Python/tree/main/Day018/hirst-spot-painting)
