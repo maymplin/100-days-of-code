@@ -178,6 +178,7 @@
 **Today's Progress**: Started Day 18 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
 
 
+
 ### Day 25: March 4, 2022
 
 **Today's Progress**: Completed Day 18 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
@@ -185,3 +186,9 @@
 **Links to work**: 
 - [100 Days of Python Day 18 project - turtle](https://github.com/maymplin/100-Days-of-Python/tree/main/Day018/day-18-start)
 - [100 Days of Python Day 18 project - Hirst spot painting](https://github.com/maymplin/100-Days-of-Python/tree/main/Day018/hirst-spot-painting)
+
+
+### Day 26: March 5, 2022
+**Today's Progress**: Completed Day 19 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+
+**Link to work**: [100 Days of Python Day 19 project - turtle-race](https://github.com/maymplin/100-Days-of-Python/tree/main/Day019)
