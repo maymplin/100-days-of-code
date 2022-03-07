@@ -192,3 +192,7 @@
 **Today's Progress**: Completed Day 19 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
 
 **Link to work**: [100 Days of Python Day 19 project - turtle-race](https://github.com/maymplin/100-Days-of-Python/tree/main/Day019)
+
+
+### Day 26: March 6, 2022
+**Today's Progress**: Started Day 20 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
