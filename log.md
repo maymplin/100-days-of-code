@@ -134,54 +134,54 @@
 
 ### Day 17: February 24, 2022
 
-**Today's Progress**: Continued Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+**Today's Progress**: Continued Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 
 ### Day 18: February 25, 2022
 
-**Today's Progress**: Continued Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+**Today's Progress**: Continued Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 
 ### Day 19: February 26, 2022
 
-**Today's Progress**: Continued Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+**Today's Progress**: Continued Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 
 ### Day 20: February 27, 2022
 
-**Today's Progress**: Finally completed Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+**Today's Progress**: Finally completed Day 16 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 **Link to work**: [100 Days of Python Day 16 project - OOP coffee_maker](https://github.com/maymplin/100-Days-of-Python/tree/main/Day016/oop-coffee-machine-start)
 
 
 ### Day 21: February 28, 2022
 
-**Today's Progress**: Halfway through Day 17 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+**Today's Progress**: Halfway through Day 17 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 
 ### Day 22: March 1, 2022
 
-**Today's Progress**: Continued Day 17 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+**Today's Progress**: Continued Day 17 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 **Link to work**: [100 Days of Python Day 17 project - quiz_game](https://github.com/maymplin/100-Days-of-Python/tree/main/Day017/quiz-game-start)
 
 
 ### Day 23: March 2, 2022
 
-**Today's Progress**: Completed Day 17 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+**Today's Progress**: Completed Day 17 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 **Link to work**: [100 Days of Python Day 17 project alternate - quiz_game_opentdb](https://github.com/maymplin/100-Days-of-Python/tree/main/Day017/quiz-game-start-opentdb)
 
 
 ### Day 24: March 3, 2022
 
-**Today's Progress**: Started Day 18 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+**Today's Progress**: Started Day 18 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 
 
 ### Day 25: March 4, 2022
 
-**Today's Progress**: Completed Day 18 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+**Today's Progress**: Completed Day 18 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 **Links to work**: 
 - [100 Days of Python Day 18 project - turtle](https://github.com/maymplin/100-Days-of-Python/tree/main/Day018/day-18-start)
@@ -189,18 +189,27 @@
 
 
 ### Day 26: March 5, 2022
-**Today's Progress**: Completed Day 19 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+**Today's Progress**: Completed Day 19 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 **Link to work**: [100 Days of Python Day 19 project - turtle-race](https://github.com/maymplin/100-Days-of-Python/tree/main/Day019)
 
 
 ### Day 27: March 6, 2022
-**Today's Progress**: Started Day 20 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+**Today's Progress**: Started Day 20 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 
 ### Day 28: March 7, 2022
 **Today's Progress**: 
-- Completed Day 20 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
-- Completed Day 21 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.'
+- Completed Day 20 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+- Completed Day 21 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+- Started Day 22 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 **Link to work**: [100 Days of Python Day 20 project - snake-game](https://github.com/maymplin/100-Days-of-Python/tree/main/Day020/snake-game)
+
+
+### Day 29: March 8, 2022
+**Today's Progress**: 
+- Completed Day 22 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+- Started Day 23 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**: [100 Days of Python Day 22 project - pong-game](https://github.com/maymplin/100-Days-of-Python/tree/main/Day022/pong-game)
