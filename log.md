@@ -213,3 +213,11 @@
 - Started Day 23 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 **Link to work**: [100 Days of Python Day 22 project - pong-game](https://github.com/maymplin/100-Days-of-Python/tree/main/Day022/pong-game)
+
+
+### Day 30: March 9, 2022
+**Today's Progress**:
+- Completed Day 23 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+- Started Day 24 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**: [100 Days of Python Day 23 project - turtle-crossing](https://github.com/maymplin/100-Days-of-Python/tree/main/Day023/turtle-crossing-start)
