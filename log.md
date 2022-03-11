@@ -227,4 +227,5 @@
 
 ### Day 30: March 10, 2022
 **Today's Progress**:
+- Practiced [Command Challenge](https://cmdchallenge.com/)
 - Continued Day 24 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
