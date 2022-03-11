@@ -223,3 +223,8 @@
 **Links to work**: 
 - [100 Days of Python Day 23 project - turtle-crossing](https://github.com/maymplin/100-Days-of-Python/tree/main/Day023/turtle-crossing-start)
 - [100 Days of Python Day 24 project - snake-game-revisited](https://github.com/maymplin/100-Days-of-Python/tree/main/Day024/snake-game-revisted)
+
+
+### Day 30: March 10, 2022
+**Today's Progress**:
+- Continued Day 24 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
