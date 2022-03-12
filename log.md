@@ -230,5 +230,11 @@
 - Practiced [Command Challenge](https://cmdchallenge.com/)
 - Completed Day 24 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
-**Links to work**
+**Link to work**
 - [100 Days of Python Day 24 project - Mail Merge Project](https://github.com/maymplin/100-Days-of-Python/tree/main/Day024/Mail%2BMerge%2BProject%2BStart)
+
+
+### Day 32: March 11, 2022
+**Today's Progress**:
+- Completed [Command Challenge](https://cmdchallenge.com/)
+- Started Day 25 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
