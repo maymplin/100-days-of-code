@@ -243,3 +243,11 @@
 ### Day 33: March 12, 2022
 **Today's Progress**:
 - Continued Day 25 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+
+### Day 34: March 13, 2022
+**Today's Progress**:
+- Completed Day 25 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**
+- [100 Days of Python Day 25 project - us-states-game](https://github.com/maymplin/100-Days-of-Python/tree/main/Day025/us-states-game-start)
