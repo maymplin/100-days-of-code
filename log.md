@@ -254,3 +254,8 @@
 **Link to work**
 - [100 Days of Python Day 25 project - us-states-game](https://github.com/maymplin/100-Days-of-Python/tree/main/Day025/us-states-game-start)
 - [100 Days of Python Day 26 project - NATO-alphabet](https://github.com/maymplin/100-Days-of-Python/tree/main/Day026/NATO-alphabet-start)
+
+
+### Day 35: March 14, 2022
+**Today's Progress**:
+- Continued Day 27 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
