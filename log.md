@@ -259,3 +259,8 @@
 ### Day 35: March 14, 2022
 **Today's Progress**:
 - Continued Day 27 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+
+### Day 36: March 15, 2022
+**Today's Progress**:
+- Continued Day 27 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
