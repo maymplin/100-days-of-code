@@ -264,3 +264,11 @@
 ### Day 36: March 15, 2022
 **Today's Progress**:
 - Continued Day 27 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+
+### Day 37: March 16, 2022
+**Today's Progress**:
+- Completed Day 27 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**
+- [100 Days of Python Day 27 project - mile-to-kilo-donverter](https://github.com/maymplin/100-Days-of-Python/blob/main/Day027/day-27/mile_to_kilo_converter.py)
