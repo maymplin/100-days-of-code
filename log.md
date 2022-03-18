@@ -272,3 +272,11 @@
 
 **Link to work**
 - [100 Days of Python Day 27 project - mile-to-kilo-donverter](https://github.com/maymplin/100-Days-of-Python/blob/main/Day027/day-27/mile_to_kilo_converter.py)
+
+
+### Day 38: March 17, 2022
+**Today's Progress**:
+- Completed Day 28 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**
+- [100 Days of Python Day 28 project - pomodoro-timer](https://github.com/maymplin/100-Days-of-Python/tree/main/Day028/pomodoro-start)
