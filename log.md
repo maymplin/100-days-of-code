@@ -280,3 +280,9 @@
 
 **Link to work**
 - [100 Days of Python Day 28 project - pomodoro-timer](https://github.com/maymplin/100-Days-of-Python/tree/main/Day028/pomodoro-start)
+
+
+### Day 39: March 18, 2022
+**Today's Progress**:
+- Started Day 29 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
