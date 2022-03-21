@@ -290,3 +290,17 @@
 ### Day 40: March 19, 2022
 **Today's Progress**:
 - Continued Day 29 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+
+### Day 41: March 20, 2022
+**Today's Progress**:
+- Continued Day 29 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+
+### Day 42: March 21, 2022
+**Today's Progress**:
+- Completed Day 29 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+- Started Day 30 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**
+[100 Days of Python Day 29 project - password-manager](https://github.com/maymplin/100-Days-of-Python/tree/main/Day029/password-manager-start)
