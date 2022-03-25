@@ -303,7 +303,7 @@
 - Started Day 30 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 **Link to work**
-[100 Days of Python Day 29 project - password-manager](https://github.com/maymplin/100-Days-of-Python/tree/main/Day029/password-manager-start)
+- [100 Days of Python Day 29 project - password-manager](https://github.com/maymplin/100-Days-of-Python/tree/main/Day029/password-manager-start)
 
 
 ### Day 43: March 22, 2022
@@ -311,7 +311,7 @@
 - Continued Day 30 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 **Link to work**
-[100 Days of Python Day 30 project - NATO-alphabet-revisited](https://github.com/maymplin/100-Days-of-Python/tree/main/Day030/NATO-alphabet-revisited)
+- [100 Days of Python Day 30 project - NATO-alphabet-revisited](https://github.com/maymplin/100-Days-of-Python/tree/main/Day030/NATO-alphabet-revisited)
 
 
 ### Day 44: March 23, 2022
@@ -324,4 +324,4 @@
 - Completed Day 30 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 **Link to work**
-[100 Days of Python Day 30 project - password-manager-revisited](https://github.com/maymplin/100-Days-of-Python/tree/main/Day030/password-manager-revisted)
+- [100 Days of Python Day 30 project - password-manager-revisited](https://github.com/maymplin/100-Days-of-Python/tree/main/Day030/password-manager-revisted)
