@@ -311,9 +311,15 @@
 - Continued Day 30 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 **Link to work**
-[100 Days of Python Day 30 project - NATO-alphabet-revisted](https://github.com/maymplin/100-Days-of-Python/tree/main/Day030/NATO-alphabet-revisited)
+[100 Days of Python Day 30 project - NATO-alphabet-revisited](https://github.com/maymplin/100-Days-of-Python/tree/main/Day030/NATO-alphabet-revisited)
 
 
 ### Day 44: March 23, 2022
 **Today's Progress**:
 - Continued Day 30 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+
+### Day 45: March 24, 2022
+**Today's Progress**:
+- Completed Day 30 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+[100 Days of Python Day 30 project - password-manager-revisited](https://github.com/maymplin/100-Days-of-Python/tree/main/Day030/password-manager-revisted)
