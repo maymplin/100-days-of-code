@@ -329,15 +329,24 @@
 
 ### Day 46: March 25, 2022
 **Today's Progress**:
-- Started Day 30 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+- Started Day 31 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 - Practiced "Impartiality" question from Google's Code Jam to I/O for Women 2021
 
 
 ### Day 47: March 26, 2022
 **Today's Progress**:
-- Continued Day 30 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+- Continued Day 31 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
 
 ### Day 48: March 27, 2022
 **Today's Progress**:
-- Continued Day 30 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+- Continued Day 31 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+
+### Day 49: March 28, 2022
+**Today's Progress**:
+- Completed Day 31 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+- Started Day 32 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**
+- [100 Days of Python Day 31 project - flashcard-project](https://github.com/maymplin/100-Days-of-Python/tree/main/Day031/flash-card-project-start)
