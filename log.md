@@ -350,3 +350,12 @@
 
 **Link to work**
 - [100 Days of Python Day 31 project - flashcard-project](https://github.com/maymplin/100-Days-of-Python/tree/main/Day031/flash-card-project-start)
+
+
+### Day 50: March 29, 2022
+**Today's Progress**:
+- Completed Day 32 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**
+- [100 Days of Python Day 32 project - birthday-wisher](https://github.com/maymplin/100-Days-of-Python/tree/main/Day032/birthday-wisher-extrahard-start)
+
