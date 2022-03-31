@@ -359,3 +359,11 @@
 **Link to work**
 - [100 Days of Python Day 32 project - birthday-wisher](https://github.com/maymplin/100-Days-of-Python/tree/main/Day032/birthday-wisher-extrahard-start)
 
+
+### Day 51: March 30, 2022
+**Today's Progress**:
+- Completed Day 33 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Links to work**
+- [100 Days of Python Day 33 project - kanye-quotes](https://github.com/maymplin/100-Days-of-Python/tree/main/Day033/kanye-quotes-start)
+- [100 Days of Python Day 33 project - iss-watcher](https://github.com/maymplin/100-Days-of-Python/tree/main/Day033/issoverhead-start)
