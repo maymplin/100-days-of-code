@@ -367,3 +367,9 @@
 **Links to work**
 - [100 Days of Python Day 33 project - kanye-quotes](https://github.com/maymplin/100-Days-of-Python/tree/main/Day033/kanye-quotes-start)
 - [100 Days of Python Day 33 project - iss-watcher](https://github.com/maymplin/100-Days-of-Python/tree/main/Day033/issoverhead-start)
+
+
+### Day 52: March 31, 2022
+**Today's Progress**:
+- Started Day 34 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
