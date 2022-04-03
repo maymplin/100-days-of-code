@@ -377,3 +377,11 @@
 ### Day 53: April 1, 2022
 **Today's Progress**:
 - Continued Day 34 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+
+### Day 54: April 2, 2022
+**Today's Progress**:
+- Completed Day 34 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Links to work**
+- [100 Days of Python Day 34 project - quizzler-app-revisted-ui-version](https://github.com/maymplin/100-Days-of-Python/tree/main/Day034/quizzler-app-start)
