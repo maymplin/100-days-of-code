@@ -385,3 +385,11 @@
 
 **Links to work**
 - [100 Days of Python Day 34 project - quizzler-app-revisted-ui-version](https://github.com/maymplin/100-Days-of-Python/tree/main/Day034/quizzler-app-start)
+
+
+### Day 55: April 4, 2022
+**Today's Progress**:
+- Completed Day 35 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Links to work**
+- [100 Days of Python Day 35 project - rain-alert](https://github.com/maymplin/100-Days-of-Python/tree/main/Day035/rain-alert)
