@@ -393,3 +393,9 @@
 
 **Links to work**
 - [100 Days of Python Day 35 project - rain-alert](https://github.com/maymplin/100-Days-of-Python/tree/main/Day035/rain-alert)
+
+
+### Day 56: April 5, 2022
+**Today's Progress**:
+- Started Day 36 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
