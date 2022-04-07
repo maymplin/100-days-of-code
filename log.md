@@ -399,3 +399,7 @@
 **Today's Progress**:
 - Started Day 36 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
+
+### Day 57: April 6, 2022
+**Today's Progress**:
+- Started lessons on PyCharm IDE features
