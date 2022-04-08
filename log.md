@@ -405,7 +405,7 @@
 - Started lessons on PyCharm IDE features
 
 
-### Day 55: April 7, 2022
+### Day 58: April 7, 2022
 **Today's Progress**:
 - Completed Day 36 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
