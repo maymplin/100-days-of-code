@@ -409,5 +409,14 @@
 **Today's Progress**:
 - Completed Day 36 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
-**Links to work**
+**Link to work**
 - [100 Days of Python Day 36 project - stock-news-alert](https://github.com/maymplin/100-Days-of-Python/tree/main/Day036/stock-news-extrahard-start/stock-news-extrahard-start)
+
+
+### Day 59: April 8, 2022
+**Today's Progress**:
+- Completed Day 37 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**
+- [100 Days of Python Day 37 project - habit-tracker-using-pixela](https://github.com/maymplin/100-Days-of-Python/tree/main/Day037/habit-tracker)
+
