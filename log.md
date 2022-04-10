@@ -420,3 +420,8 @@
 **Link to work**
 - [100 Days of Python Day 37 project - habit-tracker-using-pixela](https://github.com/maymplin/100-Days-of-Python/tree/main/Day037/habit-tracker)
 
+
+### Day 60: April 9, 2022
+**Today's Progress**:
+- Started Day 38 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
