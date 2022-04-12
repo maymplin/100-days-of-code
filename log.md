@@ -430,3 +430,11 @@
 **Today's Progress**:
 - Continued Day 38 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 
+
+### Day 62: April 11, 2022
+**Today's Progress**:
+- Completed Day 38 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+**Link to work**
+- [100 Days of Python Day 38 project - workout-tracking-using-google-sheets]()
+
