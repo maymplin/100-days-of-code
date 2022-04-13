@@ -439,6 +439,6 @@
 - [100 Days of Python Day 38 project - workout-tracking-using-google-sheets](https://github.com/maymplin/100-Days-of-Python/tree/main/Day038/exercise-tracking)
 
 
-### Day 62: April 12, 2022
+### Day 63: April 12, 2022
 **Today's Progress**:
 - Started Day 39 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
