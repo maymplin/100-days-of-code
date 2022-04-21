@@ -479,3 +479,8 @@
 **Today's Progress**:
 - Completed Day 42 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
 - Started Day 43 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+
+### Day 71: April 20, 2022
+**Today's Progress**:
+- Continued Day 43 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
