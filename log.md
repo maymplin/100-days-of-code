@@ -540,3 +540,8 @@
 ### Day 82: May 1, 2022
 **Today's Progress**:
 - Continued Day 45 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
+
+
+### Day 83: May 2, 2022
+**Today's Progress**:
+- Continued Day 45 of "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy.
